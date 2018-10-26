@@ -6,9 +6,9 @@ Created on Fri Oct 26 14:35:46 2018
 @author: agatakaczmarek
 """
 #%%
-def linear(elem,list2):
+def linear(num,list2):
         for i in range (len (list2)):
-            if elem==list2[i]:
+            if num==list2[i]:
                 return True
     
         return False
