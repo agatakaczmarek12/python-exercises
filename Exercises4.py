@@ -12,3 +12,7 @@ def linear(num,list2):
                 return True
     
         return False
+#%%
+def hello ():
+    name = input("What is your name?")
+    print ("hello" + name)
